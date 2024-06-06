@@ -1,4 +1,4 @@
-# Bitbucket Migration Series: From Data Center to Cloud
+# Code from Bitbucket Migration Series: From Data Center to Cloud
 
 ## Overview
 This repository contains scripts and resources to assist in the migration from Bitbucket Data Center to Bitbucket Cloud. The series addresses gaps in the Bitbucket Cloud Migration Assistant (BCMA), providing solutions for components not automatically migrated by BCMA.
@@ -6,12 +6,14 @@ This repository contains scripts and resources to assist in the migration from B
 ## Blog Post Series
 The series is divided into six posts, each focusing on a specific aspect of the migration process:
 
-1. **[Migrating Git Large File Storage (LFS) to Bitbucket Cloud]([link-to-post-1](https://atlassianexpert.tips/2024/05/09/1-6-migrating-git-large-file-storage-lfs-to-bitbucket-cloud/))**
-2. **[Updating Repository References to Bitbucket Cloud]([link-to-post-2](https://atlassianexpert.tips/2024/05/15/2-6-updating-repository-references-to-bitbucket-cloud/))**
-3. **[Migrating Reviewer to Bitbucket Cloud]([link-to-post-3](https://atlassianexpert.tips/2024/05/29/3-6-migrating-reviewers-to-bitbucket-cloud/))**
-4. **Migrating Groups and Memberships to Bitbucket Cloud (Coming Soon)**
-5. **Migrating Repository Permissions to Bitbucket Cloud (Coming Soon)**
-6. **Migrating Personal Repositories to Bitbucket Cloud (Coming Soon)**
+Parent Page: **[Bitbucket Migration Series: From Data Center to Cloud](https://atlassianexpert.tips/2024/05/08/bitbucket-migration-series-from-data-center-to-cloud/)**
+
+1. **[Migrating Git Large File Storage (LFS) to Bitbucket Cloud](https://atlassianexpert.tips/2024/05/09/1-6-migrating-git-large-file-storage-lfs-to-bitbucket-cloud/)**
+2. **[Updating Repository References to Bitbucket Cloud](https://atlassianexpert.tips/2024/05/15/2-6-updating-repository-references-to-bitbucket-cloud/)**
+3. **[Migrating Reviewer to Bitbucket Cloud](https://atlassianexpert.tips/2024/05/29/3-6-migrating-reviewers-to-bitbucket-cloud/)**
+4. Migrating Groups and Memberships to Bitbucket Cloud (Coming Soon)**
+5. Migrating Repository Permissions to Bitbucket Cloud (Coming Soon)**
+6. Migrating Personal Repositories to Bitbucket Cloud (Coming Soon)**
 
 ## Understanding BCMA Limitations
 BCMA automates many migration tasks but has several limitations, including but not limited to:
