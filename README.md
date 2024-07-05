@@ -11,9 +11,9 @@ Parent Page: **[Bitbucket Migration Series: From Data Center to Cloud](https://a
 1. **[Migrating Git Large File Storage (LFS) to Bitbucket Cloud](https://atlassianexpert.tips/2024/05/09/1-6-migrating-git-large-file-storage-lfs-to-bitbucket-cloud/)**
 2. **[Updating Repository References to Bitbucket Cloud](https://atlassianexpert.tips/2024/05/15/2-6-updating-repository-references-to-bitbucket-cloud/)**
 3. **[Migrating Reviewer to Bitbucket Cloud](https://atlassianexpert.tips/2024/05/29/3-6-migrating-reviewers-to-bitbucket-cloud/)**
-4. Migrating Groups and Memberships to Bitbucket Cloud (Coming Soon)**
-5. Migrating Repository Permissions to Bitbucket Cloud (Coming Soon)**
-6. Migrating Personal Repositories to Bitbucket Cloud (Coming Soon)**
+4. **[Migrating Groups and Memberships to Bitbucket Cloud](https://atlassianexpert.tips/2024/06/12/4-6-migrating-groups-and-memberships-to-bitbucket-cloud/)**
+5. **[Migrating Repository Permissions to Bitbucket Cloud](https://atlassianexpert.tips/2024/06/26/5-6-migrating-repository-permissions-to-bitbucket-cloud/)**
+6. **[Migrating Personal Repositories to Bitbucket Cloud](https://atlassianexpert.tips/2024/07/05/6-6-migrating-personal-repositories-to-bitbucket-cloud/)**
 
 ## Understanding BCMA Limitations
 BCMA automates many migration tasks but has several limitations, including but not limited to:
